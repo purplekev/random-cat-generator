@@ -7,9 +7,11 @@
 section{
     height: 100vh;
     width: 100%;
-    /* background-color: rgb(66, 62, 77);  */
+    background-color: rgb(234, 227, 255); 
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 600px 400px;
+    
     cursor: url(https://cur.cursors-4u.net/nature/nat-8/nat736.cur) 25 15, auto;
 }
 
