@@ -1,2 +1,4 @@
 # random-cat-generator
-meow 
+i love cats you love cats we all love cats
+click for a surprise
+
